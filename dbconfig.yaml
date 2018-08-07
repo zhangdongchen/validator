@@ -1,0 +1,17 @@
+---
+Read:
+    user: mongo
+    password: mongo
+    host: 127.0.0.1
+    port: 27017
+    db: bizops
+    collection: fengkong_accurate_evaluation
+    
+Write:
+    user: mongo
+    password: mongo
+    host: 127.0.0.1
+    port: 27017
+    db: bizops
+    collection: test_result
+...
